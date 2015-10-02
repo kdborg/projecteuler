@@ -12,7 +12,13 @@ long sumNaturalNumbers(int n) {
     return n * (n + 1) / 2;
 }
 
-sum = 3 * sumNaturalNumbers(999/3) + 5 * sumNaturalNumbers(999/5) - 15 * sumNaturalNumbers(999/15)
+sum = 3 * sumNaturalNumbers(999/3) 
+    + 5 * sumNaturalNumbers(999/5) 
+    - 15 * sumNaturalNumbers(999/15)
+
+## Answer
+
+233168
 
 
 
