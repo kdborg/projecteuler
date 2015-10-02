@@ -44,6 +44,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 ## Time
 
 Solution 1: 3.8e-05 seconds
+
 Solution 2: 1.2e-05 seconds
 
 ## Answer
